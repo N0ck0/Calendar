@@ -1,5 +1,7 @@
-Calendar Application
-A robust calendar management system built in Java with support for multiple calendars, timezone handling, and both GUI and text-based interfaces. This project demonstrates MVC architecture, event-driven programming, and comprehensive testing practices.
+Calendar Application:
+
+A robust calendar management system built in Java with support for multiple calendars, timezone handling, and both GUI and text-based interfaces. 
+This project demonstrates MVC architecture, event-driven programming, and comprehensive testing practices.
 Features
 Core Functionality
 
@@ -31,3 +33,4 @@ Timezone and Date/Time Handling
 Test-Driven Development
 API Design
 Error Handling and Validation
+
